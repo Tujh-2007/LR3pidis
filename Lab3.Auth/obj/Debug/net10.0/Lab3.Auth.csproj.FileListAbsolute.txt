@@ -26,3 +26,4 @@ C:\Users\Tujh\Desktop\LR3pidis\Lab3.Auth\obj\Debug\net10.0\refint\Lab3.Auth.dll
 C:\Users\Tujh\Desktop\LR3pidis\Lab3.Auth\obj\Debug\net10.0\Lab3.Auth.pdb
 C:\Users\Tujh\Desktop\LR3pidis\Lab3.Auth\obj\Debug\net10.0\Lab3.Auth.genruntimeconfig.cache
 C:\Users\Tujh\Desktop\LR3pidis\Lab3.Auth\obj\Debug\net10.0\ref\Lab3.Auth.dll
+C:\Users\Tujh\Desktop\LR3pidis\Lab3.Auth\obj\Debug\net10.0\Lab3.Auth.sourcelink.json
