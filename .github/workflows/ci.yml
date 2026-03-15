@@ -38,7 +38,7 @@ jobs:
 
 #      - name: SonarQube Analysis
 #        uses: SonarSource/sonarqube-scan-action@v4
-        with:
-          host: https://sonarcloud.io
+#        with:
+ #         host: https://sonarcloud.io
     #      env:
    #       SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
