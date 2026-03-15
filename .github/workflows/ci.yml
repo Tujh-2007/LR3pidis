@@ -22,18 +22,20 @@ jobs:
           dotnet-version: '8.0.x'
 
       - name: Restore dependencies
-        run: dotnet restore
+        run: dotnet restore Lab3.Auth/Lab3.Auth.csproj
 
       - name: Build
-        run: dotnet build --no-restore --configuration Release
+        run: dotnet build Lab3.Auth/Lab3.Auth.csproj --no-restore --configuration Release
 
       - name: Run tests with coverage
         run: |
-          dotnet test --no-build \
+          dotnet test Lab3.Auth.Tests/Lab3.Auth.Tests.csproj \
+            --no-build \
             --configuration Release \
             --collect:"XPlat Code Coverage" \
             --results-directory ./coverage-results \
             --DataCollectionRunSettings.DataCollectors.DataCollector.Configuration.Format=cobertura
+
 
       - name: SonarQube Analysis
         uses: SonarSource/sonarqube-scan-action@master
