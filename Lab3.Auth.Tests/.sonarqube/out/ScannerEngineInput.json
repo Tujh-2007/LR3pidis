@@ -10,7 +10,7 @@
     },
     {
       "key": "sonar.scanner.bootstrapStartTime",
-      "value": "1773581234000"
+      "value": "1773584685000"
     },
     {
       "key": "sonar.projectKey",
@@ -38,86 +38,86 @@
     },
     {
       "key": "sonar.modules",
-      "value": "84BF7BC8-19C7-4DF1-8220-0688EC133324,B90E1EE8-2314-48EA-86E9-58F26C31F620"
+      "value": "C22EC2CD-E39A-4682-A987-2BBE3CC26211,103635AF-C019-4379-B299-52D90DBA2557"
     },
     {
-      "key": "84BF7BC8-19C7-4DF1-8220-0688EC133324.sonar.projectKey",
-      "value": "lab3-project:84BF7BC8-19C7-4DF1-8220-0688EC133324"
+      "key": "C22EC2CD-E39A-4682-A987-2BBE3CC26211.sonar.projectKey",
+      "value": "lab3-project:C22EC2CD-E39A-4682-A987-2BBE3CC26211"
     },
     {
-      "key": "84BF7BC8-19C7-4DF1-8220-0688EC133324.sonar.projectName",
+      "key": "C22EC2CD-E39A-4682-A987-2BBE3CC26211.sonar.projectName",
       "value": "Lab3.Auth"
     },
     {
-      "key": "84BF7BC8-19C7-4DF1-8220-0688EC133324.sonar.projectBaseDir",
+      "key": "C22EC2CD-E39A-4682-A987-2BBE3CC26211.sonar.projectBaseDir",
       "value": "C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth"
     },
     {
-      "key": "84BF7BC8-19C7-4DF1-8220-0688EC133324.sonar.working.directory",
+      "key": "C22EC2CD-E39A-4682-A987-2BBE3CC26211.sonar.working.directory",
       "value": "C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\.sonarqube\\out\\.sonar\\mod0"
     },
     {
-      "key": "84BF7BC8-19C7-4DF1-8220-0688EC133324.sonar.sourceEncoding",
+      "key": "C22EC2CD-E39A-4682-A987-2BBE3CC26211.sonar.sourceEncoding",
       "value": "utf-8"
     },
     {
-      "key": "84BF7BC8-19C7-4DF1-8220-0688EC133324.sonar.tests",
+      "key": "C22EC2CD-E39A-4682-A987-2BBE3CC26211.sonar.tests",
       "value": ""
     },
     {
-      "key": "84BF7BC8-19C7-4DF1-8220-0688EC133324.sonar.sources",
+      "key": "C22EC2CD-E39A-4682-A987-2BBE3CC26211.sonar.sources",
       "value": "C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\Controllers\\AuthController.cs,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\Program.cs,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\Services\\AuthService.cs,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\Lab3.Auth.GlobalUsings.g.cs,\"C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs\",C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\Lab3.Auth.AssemblyInfo.cs,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\appsettings.Development.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\appsettings.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\Lab3.Auth.http,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\Properties\\launchSettings.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Lab3.Auth.csproj.nuget.dgspec.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\project.assets.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\bin\\Debug\\net10.0\\appsettings.Development.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\bin\\Debug\\net10.0\\appsettings.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\bin\\Debug\\net10.0\\Lab3.Auth.deps.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\bin\\Debug\\net10.0\\Lab3.Auth.runtimeconfig.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\bin\\Debug\\net10.0\\Lab3.Auth.staticwebassets.endpoints.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\Lab3.Auth.sourcelink.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\rjsmcshtml.dswa.cache.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\rjsmrazor.dswa.cache.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\rpswa.dswa.cache.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\staticwebassets.build.endpoints.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\staticwebassets.build.json"
     },
     {
-      "key": "84BF7BC8-19C7-4DF1-8220-0688EC133324.sonar.cs.analyzer.projectOutPaths",
+      "key": "C22EC2CD-E39A-4682-A987-2BBE3CC26211.sonar.cs.analyzer.projectOutPaths",
       "value": "C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\.sonarqube\\out\\0"
     },
     {
-      "key": "84BF7BC8-19C7-4DF1-8220-0688EC133324.sonar.cs.roslyn.reportFilePaths",
+      "key": "C22EC2CD-E39A-4682-A987-2BBE3CC26211.sonar.cs.roslyn.reportFilePaths",
       "value": "C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\.sonarqube\\out\\0\\Issues.json"
     },
     {
-      "key": "84BF7BC8-19C7-4DF1-8220-0688EC133324.sonar.cs.scanner.telemetry",
+      "key": "C22EC2CD-E39A-4682-A987-2BBE3CC26211.sonar.cs.scanner.telemetry",
       "value": "C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\.sonarqube\\out\\0\\Telemetry.json"
     },
     {
-      "key": "B90E1EE8-2314-48EA-86E9-58F26C31F620.sonar.projectKey",
-      "value": "lab3-project:B90E1EE8-2314-48EA-86E9-58F26C31F620"
+      "key": "103635AF-C019-4379-B299-52D90DBA2557.sonar.projectKey",
+      "value": "lab3-project:103635AF-C019-4379-B299-52D90DBA2557"
     },
     {
-      "key": "B90E1EE8-2314-48EA-86E9-58F26C31F620.sonar.projectName",
+      "key": "103635AF-C019-4379-B299-52D90DBA2557.sonar.projectName",
       "value": "Lab3.Auth.Tests"
     },
     {
-      "key": "B90E1EE8-2314-48EA-86E9-58F26C31F620.sonar.projectBaseDir",
+      "key": "103635AF-C019-4379-B299-52D90DBA2557.sonar.projectBaseDir",
       "value": "C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests"
     },
     {
-      "key": "B90E1EE8-2314-48EA-86E9-58F26C31F620.sonar.working.directory",
+      "key": "103635AF-C019-4379-B299-52D90DBA2557.sonar.working.directory",
       "value": "C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\.sonarqube\\out\\.sonar\\mod1"
     },
     {
-      "key": "B90E1EE8-2314-48EA-86E9-58F26C31F620.sonar.sourceEncoding",
+      "key": "103635AF-C019-4379-B299-52D90DBA2557.sonar.sourceEncoding",
       "value": "utf-8"
     },
     {
-      "key": "B90E1EE8-2314-48EA-86E9-58F26C31F620.sonar.sources",
+      "key": "103635AF-C019-4379-B299-52D90DBA2557.sonar.sources",
       "value": ""
     },
     {
-      "key": "B90E1EE8-2314-48EA-86E9-58F26C31F620.sonar.tests",
+      "key": "103635AF-C019-4379-B299-52D90DBA2557.sonar.tests",
       "value": "C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\obj\\Lab3.Auth.Tests.csproj.nuget.dgspec.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\obj\\project.assets.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\bin\\Debug\\net10.0\\appsettings.Development.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\bin\\Debug\\net10.0\\appsettings.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\bin\\Debug\\net10.0\\Lab3.Auth.deps.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\bin\\Debug\\net10.0\\Lab3.Auth.runtimeconfig.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\bin\\Debug\\net10.0\\Lab3.Auth.staticwebassets.endpoints.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\bin\\Debug\\net10.0\\Lab3.Auth.Tests.deps.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\bin\\Debug\\net10.0\\Lab3.Auth.Tests.runtimeconfig.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\bin\\Debug\\net10.0\\MvcTestingAppManifest.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\obj\\Debug\\net10.0\\Lab3.Auth.Tests.sourcelink.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\obj\\Debug\\net10.0\\MvcTestingAppManifest.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\AuthControllerTests.cs,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\AuthServiceTests.cs,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\UnitTest1.cs,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\coverage-results\\08b41f98-4e72-4022-9c18-08c3e49e05ec\\coverage.cobertura.xml"
     },
     {
-      "key": "B90E1EE8-2314-48EA-86E9-58F26C31F620.sonar.cs.analyzer.projectOutPaths",
+      "key": "103635AF-C019-4379-B299-52D90DBA2557.sonar.cs.analyzer.projectOutPaths",
       "value": "C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\.sonarqube\\out\\1"
     },
     {
-      "key": "B90E1EE8-2314-48EA-86E9-58F26C31F620.sonar.cs.roslyn.reportFilePaths",
+      "key": "103635AF-C019-4379-B299-52D90DBA2557.sonar.cs.roslyn.reportFilePaths",
       "value": "C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\.sonarqube\\out\\1\\Issues.json"
     },
     {
-      "key": "B90E1EE8-2314-48EA-86E9-58F26C31F620.sonar.cs.scanner.telemetry",
+      "key": "103635AF-C019-4379-B299-52D90DBA2557.sonar.cs.scanner.telemetry",
       "value": "C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth.Tests\\.sonarqube\\out\\1\\Telemetry.json"
     },
     {

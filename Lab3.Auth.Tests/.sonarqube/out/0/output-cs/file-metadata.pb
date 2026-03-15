@@ -1,8 +1,8 @@
 Ø
 ÌC:\Users\Tujh\Desktop\LR3pidis\Lab3.Auth\obj\Debug\net10.0\Microsoft.AspNetCore.App.SourceGenerators\Microsoft.AspNetCore.SourceGenerators.PublicProgramSourceGenerator\PublicTopLevelProgram.Generated.g.csutf-8_
 TC:\Users\Tujh\Desktop\LR3pidis\Lab3.Auth\obj\Debug\net10.0\Lab3.Auth.AssemblyInfo.csutf-8u
-jC:\Users\Tujh\Desktop\LR3pidis\Lab3.Auth\obj\Debug\net10.0\.NETCoreApp,Version=v10.0.AssemblyAttributes.csutf-8a
-VC:\Users\Tujh\Desktop\LR3pidis\Lab3.Auth\obj\Debug\net10.0\Lab3.Auth.GlobalUsings.g.csutf-8I
-@C:\Users\Tujh\Desktop\LR3pidis\Lab3.Auth\Services\AuthService.csutf-8<
+jC:\Users\Tujh\Desktop\LR3pidis\Lab3.Auth\obj\Debug\net10.0\.NETCoreApp,Version=v10.0.AssemblyAttributes.csutf-8I
+@C:\Users\Tujh\Desktop\LR3pidis\Lab3.Auth\Services\AuthService.csutf-8a
+VC:\Users\Tujh\Desktop\LR3pidis\Lab3.Auth\obj\Debug\net10.0\Lab3.Auth.GlobalUsings.g.csutf-8<
 3C:\Users\Tujh\Desktop\LR3pidis\Lab3.Auth\Program.csutf-8O
 FC:\Users\Tujh\Desktop\LR3pidis\Lab3.Auth\Controllers\AuthController.csutf-8
