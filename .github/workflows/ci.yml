@@ -37,8 +37,8 @@ jobs:
             -- DataCollectionRunSettings.DataCollectors.DataCollector.Configuration.Format=cobertura
 
 #      - name: SonarQube Analysis
- #       uses: SonarSource/sonarqube-scan-action@v4
+#        uses: SonarSource/sonarqube-scan-action@v4
         with:
           host: https://sonarcloud.io
-  #      env:
+    #      env:
    #       SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
