@@ -36,11 +36,9 @@ jobs:
             --results-directory ./coverage-results \
             -- DataCollectionRunSettings.DataCollectors.DataCollector.Configuration.Format=cobertura
 
-      - name: SonarQube Analysis
-        uses: SonarSource/sonarqube-scan-action@v4
+#      - name: SonarQube Analysis
+ #       uses: SonarSource/sonarqube-scan-action@v4
         with:
           host: https://sonarcloud.io
-        env:
-          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-          SONAR_PROJECT_KEY: Tujh-2007_LR3pidis 
-          SONAR_ORGANIZATION:  tujh-2007
+  #      env:
+   #       SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
