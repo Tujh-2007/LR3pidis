@@ -10,7 +10,7 @@
     },
     {
       "key": "sonar.scanner.bootstrapStartTime",
-      "value": "1773579754000"
+      "value": "1773584436000"
     },
     {
       "key": "sonar.projectKey",
@@ -38,46 +38,46 @@
     },
     {
       "key": "sonar.modules",
-      "value": "60C9B63B-A37A-4AB1-940E-890FAEF7541D"
+      "value": "457D053C-9E18-44CB-93CF-5D0C5F755732"
     },
     {
-      "key": "60C9B63B-A37A-4AB1-940E-890FAEF7541D.sonar.projectKey",
-      "value": "lab3-project:60C9B63B-A37A-4AB1-940E-890FAEF7541D"
+      "key": "457D053C-9E18-44CB-93CF-5D0C5F755732.sonar.projectKey",
+      "value": "lab3-project:457D053C-9E18-44CB-93CF-5D0C5F755732"
     },
     {
-      "key": "60C9B63B-A37A-4AB1-940E-890FAEF7541D.sonar.projectName",
+      "key": "457D053C-9E18-44CB-93CF-5D0C5F755732.sonar.projectName",
       "value": "Lab3.Auth"
     },
     {
-      "key": "60C9B63B-A37A-4AB1-940E-890FAEF7541D.sonar.projectBaseDir",
+      "key": "457D053C-9E18-44CB-93CF-5D0C5F755732.sonar.projectBaseDir",
       "value": "C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth"
     },
     {
-      "key": "60C9B63B-A37A-4AB1-940E-890FAEF7541D.sonar.working.directory",
+      "key": "457D053C-9E18-44CB-93CF-5D0C5F755732.sonar.working.directory",
       "value": "C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\.sonarqube\\out\\.sonar\\mod0"
     },
     {
-      "key": "60C9B63B-A37A-4AB1-940E-890FAEF7541D.sonar.sourceEncoding",
+      "key": "457D053C-9E18-44CB-93CF-5D0C5F755732.sonar.sourceEncoding",
       "value": "utf-8"
     },
     {
-      "key": "60C9B63B-A37A-4AB1-940E-890FAEF7541D.sonar.tests",
+      "key": "457D053C-9E18-44CB-93CF-5D0C5F755732.sonar.tests",
       "value": ""
     },
     {
-      "key": "60C9B63B-A37A-4AB1-940E-890FAEF7541D.sonar.sources",
-      "value": "C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\Controllers\\AuthController.cs,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\Program.cs,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\Services\\AuthService.cs,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\Lab3.Auth.GlobalUsings.g.cs,\"C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs\",C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\Lab3.Auth.AssemblyInfo.cs,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\appsettings.Development.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\appsettings.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\Lab3.Auth.http,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\Properties\\launchSettings.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Lab3.Auth.csproj.nuget.dgspec.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\project.assets.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\bin\\Debug\\net10.0\\appsettings.Development.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\bin\\Debug\\net10.0\\appsettings.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\bin\\Debug\\net10.0\\Lab3.Auth.deps.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\bin\\Debug\\net10.0\\Lab3.Auth.runtimeconfig.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\bin\\Debug\\net10.0\\Lab3.Auth.staticwebassets.endpoints.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\rjsmcshtml.dswa.cache.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\rjsmrazor.dswa.cache.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\rpswa.dswa.cache.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\staticwebassets.build.endpoints.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\staticwebassets.build.json"
+      "key": "457D053C-9E18-44CB-93CF-5D0C5F755732.sonar.sources",
+      "value": "C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\Controllers\\AuthController.cs,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\Program.cs,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\Services\\AuthService.cs,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\Lab3.Auth.GlobalUsings.g.cs,\"C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs\",C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\Lab3.Auth.AssemblyInfo.cs,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\appsettings.Development.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\appsettings.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\Lab3.Auth.http,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\Properties\\launchSettings.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Lab3.Auth.csproj.nuget.dgspec.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\project.assets.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\bin\\Debug\\net10.0\\appsettings.Development.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\bin\\Debug\\net10.0\\appsettings.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\bin\\Debug\\net10.0\\Lab3.Auth.deps.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\bin\\Debug\\net10.0\\Lab3.Auth.runtimeconfig.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\bin\\Debug\\net10.0\\Lab3.Auth.staticwebassets.endpoints.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\Lab3.Auth.sourcelink.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\rjsmcshtml.dswa.cache.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\rjsmrazor.dswa.cache.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\rpswa.dswa.cache.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\staticwebassets.build.endpoints.json,C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\obj\\Debug\\net10.0\\staticwebassets.build.json"
     },
     {
-      "key": "60C9B63B-A37A-4AB1-940E-890FAEF7541D.sonar.cs.analyzer.projectOutPaths",
+      "key": "457D053C-9E18-44CB-93CF-5D0C5F755732.sonar.cs.analyzer.projectOutPaths",
       "value": "C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\.sonarqube\\out\\0"
     },
     {
-      "key": "60C9B63B-A37A-4AB1-940E-890FAEF7541D.sonar.cs.roslyn.reportFilePaths",
+      "key": "457D053C-9E18-44CB-93CF-5D0C5F755732.sonar.cs.roslyn.reportFilePaths",
       "value": "C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\.sonarqube\\out\\0\\Issues.json"
     },
     {
-      "key": "60C9B63B-A37A-4AB1-940E-890FAEF7541D.sonar.cs.scanner.telemetry",
+      "key": "457D053C-9E18-44CB-93CF-5D0C5F755732.sonar.cs.scanner.telemetry",
       "value": "C:\\Users\\Tujh\\Desktop\\LR3pidis\\Lab3.Auth\\.sonarqube\\out\\0\\Telemetry.json"
     },
     {
